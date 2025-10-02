@@ -1,5 +1,3 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-   // 使用 App Router
-};
+const nextConfig = {};
 module.exports = nextConfig;
